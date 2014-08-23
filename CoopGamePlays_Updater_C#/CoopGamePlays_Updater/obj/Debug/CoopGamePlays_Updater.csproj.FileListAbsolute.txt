@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Project\CoopGamePlays_Updater\CoopGamePlays_Updater\bin\Debug\CoopGamePlays_Updater.exe.config
+D:\Visual Studio 2013\Project\CoopGamePlays_Updater\CoopGamePlays_Updater\bin\Debug\CoopGamePlays_Updater.exe
+D:\Visual Studio 2013\Project\CoopGamePlays_Updater\CoopGamePlays_Updater\bin\Debug\CoopGamePlays_Updater.pdb
+D:\Visual Studio 2013\Project\CoopGamePlays_Updater\CoopGamePlays_Updater\obj\Debug\CoopGamePlays_Updater.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Project\CoopGamePlays_Updater\CoopGamePlays_Updater\obj\Debug\CoopGamePlays_Updater.exe
+D:\Visual Studio 2013\Project\CoopGamePlays_Updater\CoopGamePlays_Updater\obj\Debug\CoopGamePlays_Updater.pdb
